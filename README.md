@@ -1,5 +1,5 @@
 # Cyberbullying Detection and Classification in Tweets Using Suppor Vector Machine (SVM) 
-This small project focuses on identifying and classifying instances of cyberbullying in tweets. Cyberbullying on social media platforms is a pervasive issue, with harmful impacts on individuals and communities. To address this, the project involves the following key steps:
+This project, completed as part of my university course on Natural Language Processing, focuses on detecting and categorizing instances of cyberbullying in tweets. Cyberbullying is a widespread issue on social media, with significant negative effects on individuals and communities. To tackle this problem, the project includes the following key steps:
 
 ## Data Preprocessing:
 Cleaning and preprocessing raw tweets to remove noise such as hashtags, mentions, and unnecessary symbols.
